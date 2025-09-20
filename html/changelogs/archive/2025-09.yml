@@ -376,3 +376,11 @@
   - code_imp: Disposal sorter prefabs use defines instead of numbers
   lbnesquik:
   - rscadd: Added the coroner role as an alternative title to medical doctors
+2025-09-20:
+  Guti:
+  - admin: Added admin logs to bear traps
+  Kashargul:
+  - qol: moves most law outputs to blocks
+  Will:
+  - bugfix: Changeling chameleon cloths no longer reveal lings by having suit sensors
+  - code_imp: clothing code uses suit_sensor defines instead of magic numbers
